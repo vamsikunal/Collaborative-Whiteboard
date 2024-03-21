@@ -1,10 +1,12 @@
 import React from 'react';
+import Whiteboard from './Whiteboard/Whiteboard';
+
 
 
 function App() {
   return (
     <div className="App">
-      <h1> Hello </h1>
+      <Whiteboard />
     </div>
   );
 }
